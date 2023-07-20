@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Font</string>
+
+    <string name="Hindi"> ऐप डेवलपमेंट हमसे सीखें </string>
+    <string name="urdu">     ہم سے ایپ ڈویلپمنٹ سیکھیں  </string>
+    <string name="english">Learn App Development from us </string>
+
+
+
+</resources>
