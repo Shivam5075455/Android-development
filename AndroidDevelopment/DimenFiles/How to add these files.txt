@@ -1,0 +1,8 @@
+How to add Dimens file in Android Studio
+Steps:
+1. Right click on "values" 
+2. Click Open in -> Explorer
+3. Copy and Paste two folder of dimens(i.e., sw480dp and w820dp)
+4. Copy Dimens.xml file and go to Anroid Studio click on "values" 
+5. Press ctrl+v 
+6. Click Ok
